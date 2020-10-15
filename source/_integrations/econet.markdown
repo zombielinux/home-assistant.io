@@ -10,6 +10,8 @@ ha_domain: econet
 
 The `econet` water heater platform is consuming the information provided by a [EcoNet enabled Rheem water heater](https://www.rheem.com/EcoNet/Home). This platform allows you to set the temperature, the operation mode, and enable vacation mode.
 
+THIS INTEGRATION IS NO LONGER FUNCTIONAL AS OF JUNE 2020. RHEEM HAS CHANGED THEIR API. WORK IS IN PROGRESS TO RESTORE FUNCTIONALITY.
+
 ## Configuration
 
 To enable the `econet` water heater platform, add the following information to your `configuration.yaml` file:
